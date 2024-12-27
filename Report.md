@@ -71,8 +71,8 @@ Details of the project and simulation results are presented in the following vid
 
 YouTube Video Link
 
+https://youtu.be/A8_JgRBhRO4?si=tpJp8dbxpjxW3jx1
+
 GitHub Repository
 
 The project code, report, and video link can be accessed via the following GitHub repository:
-
-GitHub Repository
